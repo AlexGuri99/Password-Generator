@@ -1,6 +1,6 @@
 # Password-Generator
 Fun little project i made with C# and WinForms furing my free time.
-![](Downloads/Capture1.png)
-![](/path/image.ext)
-![](/path/image.ext)
-![](/path/image.ext)
+❮img src="C:\Users\Alex\Pictures\Capture1.png" ❯
+❮img src="images/you-picture.png" ❯
+❮img src="images/you-picture.png" ❯
+❮img src="images/you-picture.png" ❯
